@@ -1,0 +1,26 @@
+# Flutter/Dart specific
+**/build/
+**/ios/Pods/
+**/android/build/
+
+# IntelliJ/Android Studio specific
+**/*.iml
+**/.idea/
+**/.vscode/
+**/.metadata
+**/.gradle
+**/android/**/gradle-wrapper.jar
+
+# macOS specific
+**/.DS_Store
+
+# Android specific
+**/android/app/debug.keystore
+**/android/app/release.keystore
+**/android/gradle.properties
+**/android/local.properties
+
+# iOS specific
+**/ios/Runner.xcworkspace/
+**/ios/Pods/
+**/ios/Podfile.lock
